@@ -1,6 +1,6 @@
 <h2> Pokédex </h2>
 
-<p>Proyecto realizado con la API de [PokéAPI](https://pokeapi.co)</p>
+<p>Proyecto realizado con la API de PokéAPI (https://pokeapi.co)</p>
 
 <h2>Tecnologías usadas:</h2>
 <div>
