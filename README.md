@@ -42,5 +42,5 @@ pokedex/
 
 ## Licencia
 
-[Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
+[Licencia](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional
 <img alt="Licencia Creative Commons" style="margin-top:.5rem;vertical-align:middle;" height="30" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
